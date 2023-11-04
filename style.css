@@ -1,0 +1,33 @@
+
+ * {
+    font-family: "Times New Roman", serif;
+ }
+
+ .recipe {
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    width: auto;
+ }
+
+ .ingredients {
+   background-color: aquamarine;
+    width: 25%;
+    box-sizing: border-box;
+ }
+
+ .instructions {
+   padding: 10px;
+    background-color: aqua;
+    width: 25%;
+    box-sizing: border-box;
+ }
+
+ li {
+    font-size: 20px;
+    font-weight: 300;
+ }
+
+ .introduction {
+    font-size: 23px;
+ }
